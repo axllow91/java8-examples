@@ -13,7 +13,8 @@ package lambdas;
 
 /*
  * Functional interface -> is a interface that contains only single abstract method (the interf. can have the other type of
- * method default, static)
+ * method default, static).
+ *
  * Examples: Runnable -> contains the run() method
  *           Callable -> contains the call() method
  *           ActionListener -> contains one method : actionPerformed()
