@@ -1,4 +1,4 @@
-/*
+package lambdas;/*
  * Sorting class object with lambda expression
  */
 

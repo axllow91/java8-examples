@@ -1,7 +1,7 @@
 package default_methods_inside_interf;
 
 /*
-* Until 1.7 java version we could hav only have abstract methods
+* Until 1.7 java version we had only abstract methods
 * From 1.8 > they have introduced default methods and static methods
 * So from 1.8 version we can happily have concrete methods inside of an interface
 * Every variable that is present into a interface is implicitly public static final
