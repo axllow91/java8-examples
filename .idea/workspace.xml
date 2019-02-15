@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cdec2e0-87c2-4814-96b6-7ec8f683d5d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/two_argument_functional_interfaces/BiConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/two_argument_functional_interfaces/BiFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/two_argument_functional_interfaces/BiPredicatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java8/autoboxing_autounboxing/Autoboxing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java8/autoboxing_autounboxing/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java8/autoboxing_autounboxing/PrimitiveTypeFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/autoboxing_autounboxing/Autoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/autoboxing_autounboxing/PrimitiveTypeFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/LambdaExpressionsWithCollections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/SortingClassObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/default_methods_inside_interf/DefaultMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/default_methods_inside_interf/DefaultMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/LambdaExpressionsWithCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/LambdaExpressionsWithCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/SortingClassObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/SortingClassObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/consumer/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/consumer/ConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/consumer/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/consumer/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/consumer/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/consumer/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/functions/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/functions/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/functions/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/functions/Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/functions/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/functions/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/predicate/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/predicate/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/predicate/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/predicate/PredicateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/predicate/SoftwareEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/predicate/SoftwareEngineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/predicate/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/predicate/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predefine_interfaces/supplier/SupplierInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predefine_interfaces/supplier/SupplierInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java8/two_argument_functional_interfaces/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/two_argument_functional_interfaces/Test2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/two_argument_functional_interfaces/BiPredicatExample.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/two_argument_functional_interfaces/BiFunctionExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="74" column="65" lean-forward="true" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
+            <state relative-caret-position="1296">
+              <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,13 +42,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/two_argument_functional_interfaces/BiConsumerExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="720">
               <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autoboxing_autounboxing/Autoboxing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="72" column="58" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autoboxing_autounboxing/PrimitiveTypeFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="176" column="43" lean-forward="true" selection-start-line="176" selection-start-column="43" selection-end-line="176" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/MethodReferenceExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="112" column="10" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
+              <folding>
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/Numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,8 +111,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -124,6 +164,10 @@
         <option value="$PROJECT_DIR$/src/two_argument_functional_interfaces/BiPredicatExample.java" />
         <option value="$PROJECT_DIR$/src/two_argument_functional_interfaces/BiFunctionExample.java" />
         <option value="$PROJECT_DIR$/src/two_argument_functional_interfaces/BiConsumerExample.java" />
+        <option value="$PROJECT_DIR$/src/autoboxing_autounboxing/Autoboxing.java" />
+        <option value="$PROJECT_DIR$/src/autoboxing_autounboxing/PrimitiveTypeFunction.java" />
+        <option value="$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/MethodReferenceExample.java" />
+        <option value="$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/Numbers.java" />
       </list>
     </option>
   </component>
@@ -144,8 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +199,12 @@
               <item name="java8" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="autoboxing_autounboxing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8" type="b2602c69:ProjectViewProjectNode" />
@@ -174,18 +222,20 @@
               <item name="java8" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="two_argument_functional_interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="method_and_constructor_reference_using_operator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550150304887" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550230533774" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -203,13 +253,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predefine_interfaces.supplier.Test" />
+  <component name="RunManager" selected="Application.Numbers">
+    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_and_constructor_reference_using_operator.MethodReferenceExample" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predefine_interfaces.supplier.*" />
+          <option name="PATTERN" value="method_and_constructor_reference_using_operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="two_argument_functional_interfaces.Test" />
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_and_constructor_reference_using_operator.Numbers" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="two_argument_functional_interfaces.*" />
+          <option name="PATTERN" value="method_and_constructor_reference_using_operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="two_argument_functional_interfaces.Test1" />
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_and_constructor_reference_using_operator.Sample" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="two_argument_functional_interfaces.*" />
+          <option name="PATTERN" value="method_and_constructor_reference_using_operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="two_argument_functional_interfaces.Test2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_and_constructor_reference_using_operator.Test" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="two_argument_functional_interfaces.*" />
+          <option name="PATTERN" value="method_and_constructor_reference_using_operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMovie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predefine_interfaces.consumer.TestMovie" />
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_and_constructor_reference_using_operator.Test1" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predefine_interfaces.consumer.*" />
+          <option name="PATTERN" value="method_and_constructor_reference_using_operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.TestMovie" />
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MethodReferenceExample" />
       </list>
     </recent_temporary>
   </component>
@@ -295,12 +345,13 @@
       <workItem from="1549957130805" duration="25843000" />
       <workItem from="1550044237358" duration="4196000" />
       <workItem from="1550048652810" duration="877000" />
-      <workItem from="1550141843202" duration="5796000" />
+      <workItem from="1550141843202" duration="15359000" />
+      <workItem from="1550216802782" duration="6356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78289000" />
+    <option name="totallyTimeSpent" value="94208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,7 +371,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18550107" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32998884" />
@@ -657,8 +708,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/two_argument_functional_interfaces/BiFunctionExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="74" column="65" lean-forward="true" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
+        <state relative-caret-position="1296">
+          <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -667,10 +718,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/two_argument_functional_interfaces/BiConsumerExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="720">
           <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoboxing_autounboxing/Autoboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="72" column="58" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoboxing_autounboxing/PrimitiveTypeFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="176" column="43" lean-forward="true" selection-start-line="176" selection-start-column="43" selection-end-line="176" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/MethodReferenceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="112" column="10" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/method_and_constructor_reference_using_operator/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
           </folding>
         </state>
       </provider>
